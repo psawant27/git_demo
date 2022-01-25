@@ -1,9 +1,7 @@
 a = 10
 b = 15
 
-def add(a,b):
-    sum = a + b
-    return sum
+sum = lambda num1, num2: num1 + num2
 
 sum = add(a,b)
 print(sum)
