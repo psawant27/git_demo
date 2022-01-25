@@ -8,3 +8,4 @@ def add(a,b):
 sum = add(a,b)
 print(sum)
 print("Jay was here!")
+print(a<<b)
